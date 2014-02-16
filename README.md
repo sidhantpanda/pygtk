@@ -1,4 +1,4 @@
-trial
+Python GTK
 =====
 
-This is a test repo to learn git.
+This repo contains some basic python gtk application.
