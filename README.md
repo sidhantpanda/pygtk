@@ -1,4 +1,3 @@
-Sample Python Codes
-=====
+#PyGTK Application
 
-Some sample python codes in gtk
+This repo contains some of the examples taught in the gnome tutorial for development in python applications.
