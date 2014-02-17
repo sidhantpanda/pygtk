@@ -1,4 +1,4 @@
-Python GTK
+Sample Python Codes
 =====
 
-This repo contains some basic python gtk application.
+Some sample python codes in gtk
