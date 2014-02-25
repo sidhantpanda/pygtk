@@ -4,7 +4,7 @@ import sys
 class MyWindow(Gtk.ApplicationWindow):
     # a window
     def __init__(self, app):
-        Gtk.Window.__init__(self, title="ToggleButton Example", application=app)
+        Gtk.Window.__init__(self, title="Toggle Button Example", application=app)
         self.set_default_size(300, 300)
         self.set_border_width(30)
 
